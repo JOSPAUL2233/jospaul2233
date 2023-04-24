@@ -1,7 +1,9 @@
+<p align="center"> [![](https://visitcount.itsvg.in/api?id=jospaul2233&icon=0&color=0)](https://visitcount.itsvg.in) </p>
+
+
 # 💫 About Me:
 An efficient student committed to learning and developing<br>skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.<br>Successful in quickly building skills, self-teaching, and acquiring<br>new knowledge.
 
-[![](https://visitcount.itsvg.in/api?id=jospaul2233&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
