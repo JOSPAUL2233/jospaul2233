@@ -1,4 +1,5 @@
 
+
 # 💫 About Me:
 An efficient student committed to learning and developing skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.Successful in quickly building skills, self-teaching, and acquiring new knowledge.
 
@@ -6,6 +7,9 @@ An efficient student committed to learning and developing skills in programming.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsjospaulhere) 
+[![LeetCode](https://user-images.githubusercontent.com/81140899/234101662-9c752cef-0a56-4db9-a825-c9115b35603f.png)](https://leetcode.com/_jos_paul_/) 
+
+
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/_jos_paul_?theme=dark&font=baloo&extension=null)
 
