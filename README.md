@@ -8,8 +8,8 @@ An efficient student committed to learning and developing skills in programming.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsjospaulhere) 
 
 
-[![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
-](https://leetcode.card.workers.dev/JacobLinCool?cache=3600)
+[![](https://leetcard._jos_paul_.cool/lapor?ext=heatmap)
+](https://leetcode.card.workers.dev/_jos_paul_?cache=3600)
 
 
 # 💻 Tech Stack:
