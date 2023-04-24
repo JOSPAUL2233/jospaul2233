@@ -1,8 +1,6 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jospaul2233&label=Profile%20views&color=4fb589&style=flat" alt="jospaul2233" /> </p>
-
 
 # 💫 About Me:
-An efficient student committed to learning and developing<br>skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.<br>Successful in quickly building skills, self-teaching, and acquiring<br>new knowledge.
+An efficient student committed to learning and developing skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.Successful in quickly building skills, self-teaching, and acquiring new knowledge.
 
 
 
