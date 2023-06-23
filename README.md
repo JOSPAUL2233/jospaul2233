@@ -3,7 +3,7 @@
 </div> -->
 
 # 💫 About Me:
-An efficient student committed to learning and developing skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.Successful in quickly building skills, self-teaching, and acquiring new knowledge .
+An efficient student committed to learning and developing skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.Successful in quickly building skills, self-teaching, and acquiring new knowledge.
 
 
 
