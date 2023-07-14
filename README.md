@@ -17,7 +17,7 @@ An efficient student committed to learning and developing skills in programming.
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/_jos_paul_?theme=dark&font=baloo&extension=null)
-
+[![geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 
 # 📊 GitHub Stats:
