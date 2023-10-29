@@ -20,7 +20,7 @@ An efficient student committed to learning and developing skills in programming.
 <!--[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 -->
 
-[![Jos's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Jos's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jospaul2233&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
