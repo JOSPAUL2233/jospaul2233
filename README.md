@@ -21,8 +21,11 @@ An efficient student committed to learning and developing skills in programming.
 -->
 
 
-<p align="center">
+  
 # 📊 GitHub Stats:
+
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=jospaul2233&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jospaul2233&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jospaul2233&theme=dark&hide_border=false)<br/>
