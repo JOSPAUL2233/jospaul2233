@@ -17,9 +17,10 @@ An efficient student committed to learning and developing skills in programming.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # :technologist: Coding Profiles:
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)]
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/_jos_paul_?theme=dark&font=baloo&extension=null)](https://leetcode.com/_jos_paul_/)[![Jos's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
+# LeetCode
+[![LeetCode Stats](https://leetcode.card.workers.dev/_jos_paul_?theme=dark&font=baloo&extension=null)](https://leetcode.com/_jos_paul_/)
+#GeeksForGeeks
+[![Jos's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 <!--[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 -->
 
