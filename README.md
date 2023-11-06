@@ -19,7 +19,7 @@ An efficient student committed to learning and developing skills in programming.
 # :technologist: Coding Profiles:
 # LeetCode
 [![LeetCode Stats](https://leetcode.card.workers.dev/_jos_paul_?theme=dark&font=baloo&extension=null)](https://leetcode.com/_jos_paul_/)
-#GeeksForGeeks
+# GeeksForGeeks
 [![Jos's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 <!--[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jospaul223)](https://auth.geeksforgeeks.org/user/jospaul223/practice)
 -->
